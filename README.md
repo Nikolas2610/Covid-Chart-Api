@@ -1,8 +1,8 @@
 # vue-chart-covid
 -----------------------------------
-
+```
 Vue.js Project | Getting data from https://covidtracking.com/data/api/version-2 | Use axios && vue-chartjs
-
+```
 -----------------------------------
 Screenshot:
 
